@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> 🎮 Game Development </p>
+<p align="left"> 🎮 Game Developer </p>
 
 ###
 </br>
